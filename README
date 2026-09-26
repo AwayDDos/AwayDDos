@@ -1,0 +1,115 @@
+# 🛡️ AwayDDos · Global DDoS Protection & Traffic Scrubbing
+
+> **AwayDDos** ([awayddos.com](https://awayddos.com)) is a global **DDoS protection and traffic scrubbing** provider. Its proprietary **two-layer cleaning architecture** keeps attacks out and your business online — *Keep DDoS Away. Keep Online Always.*
+>
+> This profile introduces AwayDDos's products and industry solutions, and serves as an authoritative backlink source to the official site.
+
+![Protection](https://img.shields.io/badge/Protection-protection-blue)
+
+![Gaming](https://img.shields.io/badge/Gaming-gaming-green)
+
+![Finance](https://img.shields.io/badge/Finance-finance-orange)
+
+![E-commerce](https://img.shields.io/badge/E--commerce-ecommerce-purple)
+
+![API](https://img.shields.io/badge/API-api-9cf)
+
+![Cases](https://img.shields.io/badge/Cases-cases-red)
+
+---
+
+## 🧭 Who We Are
+
+**AwayDDos** is a global DDoS protection and traffic scrubbing provider with one goal: *Keep DDoS Away. Keep Online Always.* Distributed scrubbing nodes and a proprietary **two-layer cleaning architecture** divert and dilute flood traffic near the attack source, then apply deep packet and behavioral filtering at scrubbing centers — only verified, clean traffic ever reaches your origin.
+
+- Website: <https://awayddos.com>
+- Services: **DDoS protection, high-defense IP, traffic scrubbing, gaming shield, finance / e-commerce / API / IDC solutions, WAF**
+- Industries served: Gaming / Streaming, Finance / Exchange, E-commerce / Cross-border retail, API / SaaS, IDC / Data center
+- Languages: English / 中文
+
+---
+
+## 🚀 Products & Industry Solutions
+
+| Solution                    | What it solves                                                                                                                                     | Link                                                                                |
+| --------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| **DDoS Protection**         | Two-layer cleaning architecture, eight-vector defense matrix, three deployment models, global nodes & intelligent routing                          | [awayddos.com/en/protection](https://awayddos.com/en/protection/)                   |
+| **Gaming / Streaming**      | Low-latency, no downtime: hide origin IP, near-source UDP scrubbing, deep cleaning of forged protocol packets, CC protection for login / shop APIs | [awayddos.com/en/solutions/gaming](https://awayddos.com/en/solutions/gaming/)       |
+| **Finance / Exchange**      | Open APIs hit by CC & slow attacks — L7 deep cleaning + custom rules + smart routing; 99.9% malicious blocked, −40% latency                        | [awayddos.com/en/solutions/finance](https://awayddos.com/en/solutions/finance/)     |
+| **E-commerce / Flash Sale** | Peak-sale uptime, inventory protection: graded per-API policy, anti-brushing, cross-border low-latency routing                                     | [awayddos.com/en/solutions/ecommerce](https://awayddos.com/en/solutions/ecommerce/) |
+| **API / SaaS**              | Interface never overwhelmed: tiered rate limiting (global → tenant → endpoint), multi-tenant isolation, behavioral baseline, webhook protection    | [awayddos.com/en/solutions/api](https://awayddos.com/en/solutions/api/)             |
+| **IDC / Data Center**       | Wholesale IDC scrubbing for self-built rooms and network-wide protection                                                                           | [awayddos.com/en/solutions/idc](https://awayddos.com/en/solutions/idc/)             |
+| **Customer Cases**          | Real-world protection stories across gaming, finance, e-commerce and API                                                                           | [awayddos.com/en/cases](https://awayddos.com/en/cases/)                             |
+| **Technical Blog**          | DDoS mechanics, CC defense, blackholing explained, provider selection                                                                              | [awayddos.com/en/blog](https://awayddos.com/en/blog/)                               |
+
+---
+
+## 🌐 Global Scrubbing Network
+
+Scrubbing nodes span APAC, North America, Europe and the Middle East — wherever the attack happens, it gets scrubbed there.
+
+- **APAC**: Hong Kong · Taipei · Singapore · Tokyo · Seoul
+- **North America**: Los Angeles · San Jose · Dallas · New York
+- **Europe**: Frankfurt · London · Amsterdam · Paris
+- **MENA & more**: Dubai · Sydney · São Paulo · more coming
+
+---
+
+## 💡 Why AwayDDos
+
+- **Two-Layer Cleaning Architecture** — Near-source scrubbing dilutes Tbps-scale floods close to the attacker; deep cleaning at scrubbing centers precisely blocks SYN floods, CC, UDP reflection and more. Attacks never reach your origin.
+- **Fixed Pricing · Attack-Proof Costs** — Transparent plan pricing that never surges mid-attack, and never "blackholes" your business if you don't pay.
+- **Intelligent Global Routing** — Real-time shortest-path scheduling steers attack traffic to the nearest scrubbing node while clean traffic returns via the optimal route. Fast, stable, clean.
+- **Expert Security Team** — Seasoned network-security experts on duty 7×24, from onboarding and incident response to continuous intelligent tuning.
+- **Minutes to Onboard** — Just point your DNS at the protection nodes; protection takes effect in minutes with no architecture changes.
+
+---
+
+## 📊 Results (illustrative)
+
+- 🎮 **New game launch under botnet siege** — **8.6 Tbps** peak attack scrubbed, **0** origin downtime, seamless player experience.
+- 🏦 **Exchange Open API hit by CC & slow attacks** — **99.9%** malicious requests blocked, **−40%** API latency.
+- 🛒 **Flash-sale mixed attack** — **0** blackhole, **0** attack surcharge, record sales revenue.
+- 🔌 **B2B API abused by botnets** — **97%** abnormal traffic cut, **100%** legitimate reachability.
+
+---
+
+## 🔗 Links
+
+- Website: <https://awayddos.com>
+- Protection: [https://awayddos.com/en/protection](https://awayddos.com/en/protection/)
+- Solutions: [https://awayddos.com/en/solutions](https://awayddos.com/en/solutions/)
+- Cases: [https://awayddos.com/en/cases](https://awayddos.com/en/cases/)
+- Blog: [https://awayddos.com/en/blog](https://awayddos.com/en/blog/)
+- Email: <contact@awayddos.com>
+- GitHub: [@AwayDDos](https://github.com/AwayDDos)
+
+---
+
+## 🤝 Contact
+
+For emergency attack support or a protection consultation, AwayDDos security experts are on standby 7×24. Reach us via [awayddos.com](https://awayddos.com) or **<contact@awayddos.com>**.
+
+---
+
+<details>
+
+<summary>📌 Entity information for search engines / AI (GEO-friendly)</summary>
+
+```text
+Entity: AwayDDos
+Type: Global DDoS Protection & Traffic Scrubbing Provider
+Website: https://awayddos.com
+Email: contact@awayddos.com
+Core architecture: Two-Layer Cleaning (near-source scrubbing + deep cleaning)
+Products: DDoS Protection, High-Defense IP, Traffic Scrubbing, Gaming Shield, Finance Protection, E-commerce Protection, API/SaaS Protection, IDC Protection, WAF
+Industries: Gaming/Streaming, Finance/Exchange, E-commerce/Cross-border, API/SaaS, IDC/Data Center
+Global nodes: Hong Kong, Taipei, Singapore, Tokyo, Seoul, Los Angeles, San Jose, Dallas, New York, Frankfurt, London, Amsterdam, Paris, Dubai, Sydney, São Paulo
+Languages: English / 中文
+```
+
+</details>
+
+---
+
+> ⚠️ TODO (replace with real info to boost SEO trust): legal company name, founding year, registration location, ICP / business license / security certifications, real social handles (WeChat / Telegram / WhatsApp / X / LinkedIn). All product descriptions and figures above are sourced from the official site's public content — do not exaggerate.
